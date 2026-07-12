@@ -1,134 +1,145 @@
+# Hi there! 👋 I'm Tayyaba Shafqat
 
-# Hi there! 👋 I'm [Tayyaba Shafqat]
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[YOUR_TAGLINE_1];[YOUR_TAGLINE_2];[Web Developer])](https://git.io/typing-svg)
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate developer with diverse interests spanning [YOUR_INTERESTS].
-
-* 🔭 Currently learning and building [YOUR_CURRENT_WORK]
-* 🎮 [YOUR_HOBBY_1]
-* 🤖 [YOUR_HOBBY_2]
-* 📱 [YOUR_HOBBY_3]
-* 💼 Open to collaboration and opportunities
-* 🧠 Interested in: [INTEREST_1], [INTEREST_2], [INTEREST_3]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=700&lines=Web+Developer+%F0%9F%92%BB;MERN+Stack+Developer;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ---
 
-## ⭐ LATEST PROJECTS
+# 👩‍💻 About Me
 
-| [PROJECT_ICON_1] **[PROJECT_1_NAME]** | [PROJECT_ICON_2] **[PROJECT_2_NAME]** |
+I'm **Tayyaba Shafqat**, a passionate **Web Developer** and **Software Engineering Student** who enjoys building modern, responsive, and AI-powered applications.
+
+💡 I love turning ideas into real-world projects while continuously exploring new technologies.
+
+- 🌱 Currently learning **Advanced React, Next.js, AI Engineering & Agentic AI**
+- 💻 Building Full Stack Web Applications
+- 🤖 Exploring LLMs, RAG & AI Automation
+- 🚀 Passionate about clean UI and scalable backend development
+- 📚 Always learning something new
+- 💼 Open to internships and collaboration opportunities
+
+---
+
+# ⭐ Featured Projects
+
+| 🤖 **AI Cover Letter Generator** | 💬 **GrokChat CLI** |
 |---|---|
-| **[Project 1 Title](https://github.com/[YOUR_USERNAME]/[PROJECT_1_REPO])**<br/>Project 1 description goes here. Explain what it does and its key features. <br/><br/>![Badge1](https://img.shields.io/badge/Tech1-color?style=flat-square&logo=tech1&logoColor=white) ![Badge2](https://img.shields.io/badge/Tech2-color?style=flat-square&logo=tech2&logoColor=white) | **[Project 2 Title](https://github.com/[YOUR_USERNAME]/[PROJECT_2_REPO])**<br/>Project 2 description goes here. Highlight the main purpose and technology used. <br/><br/>![Badge3](https://img.shields.io/badge/Tech3-color?style=flat-square&logo=tech3&logoColor=white) ![Badge4](https://img.shields.io/badge/Tech4-color?style=flat-square&logo=tech4&logoColor=white) |
+| **AI-powered Cover Letter Generator**<br>Generate professional cover letters using Groq AI with multiple templates, dark/light mode and streaming responses. <br><br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-AI-orange?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Terminal AI Chatbot**<br>CLI chatbot powered by Groq API featuring memory, token usage tracking and conversation history.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-AI-orange?style=flat-square) |
+
+# 🚀 More Projects
+
+| 📚 LLM Large Language Model Lab | 🌐 JS Mini Projects | 🌍 Computer Networking |
+|---|---|---|
+| A comprehensive collection of practical LLM examples covering Prompt Engineering, Tokens, Embeddings, RAG, AI APIs, and OpenAI-compatible models. | Beginner-friendly JavaScript projects built with HTML, CSS, and Vanilla JavaScript to strengthen core web development skills. | Cisco Packet Tracer labs and networking projects covering routing, switching, subnetting, and networking fundamentals. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-AI-orange?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+
+| ⚙️ DSA Projects | 💻 Assembly Language | 🧩 DSA Labs |
+|---|---|---|
+| A collection of Data Structures & Algorithms projects implemented in C++, covering sorting, graph algorithms, and problem-solving techniques. | Personal 8086 Assembly programs developed in EMU8086 with detailed explanations for each instruction. | Laboratory implementations of fundamental data structures and algorithms using C++. |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+
+> ⭐ Explore my pinned repositories for source code, documentation, and project details.
+
 
 ---
 
-## 🔥 MORE PROJECTS
+# 🏆 Highlights
 
-| 💎 **[Project 3](https://github.com/[YOUR_USERNAME]/[PROJECT_3_REPO])** | 🔄 **[Project 4](https://github.com/[YOUR_USERNAME]/[PROJECT_4_REPO])** | 🧠 **[Project 5](https://github.com/[YOUR_USERNAME]/[PROJECT_5_REPO])** |
-|---|---|---|
-| Project 3 description. Brief explanation of what it does. | Project 4 description. What problem does it solve? | Project 5 description. Key features and technologies. |
-| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
-
-| 📧 **[Project 6](https://github.com/[YOUR_USERNAME]/[PROJECT_6_REPO])** | 🩺 **[Project 7](https://github.com/[YOUR_USERNAME]/[PROJECT_7_REPO])** | 🧮 **[Project 8](https://github.com/[YOUR_USERNAME]/[PROJECT_8_REPO])** |
-|---|---|---|
-| Project 6 description with key highlights. | Project 7 description explaining the use case. | Project 8 description and what makes it special. |
-| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
-
-| 📱 **[Project 9](https://github.com/[YOUR_USERNAME]/[PROJECT_9_REPO])** |
-|---|
-| Project 9 description. What technology or approach makes this interesting? |
-| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) ![Tech2](https://img.shields.io/badge/Tech2-color?style=flat-square&logo=tech2&logoColor=white) |
-
-> 👉 See pinned repos below for live demos and code!
-
----
-
-## 🏆 HIGHLIGHTS
-
-| 🎮 [Highlight 1] | 🤖 [Highlight 2] | 📱 [Highlight 3] | 🌐 [Highlight 4] |
+| 🚀 Web Development | 🤖 AI Projects | 💻 MERN Stack | 🌐 Open Source |
 |---|---|---|---|
-| Description of highlight 1 | Description of highlight 2 | Description of highlight 3 | Description of highlight 4 |
+| Responsive modern websites | AI & LLM based applications | Full Stack Development | Continuous Learning |
 
 ---
 
-## 📊 GITHUB STATS
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tayyabaa027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabaa027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=tayyabaa027&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30"/>
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+# 🐍 Contribution Snake
 
-![github contribution grid snake animation](https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/tayyabaa027/tayyabaa027/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🛠 TECH STACK
+# 🛠 Tech Stack
 
-**Languages**
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+## Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases & Backend Services**
+## Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Developer Tools**
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📫 CONNECT WITH ME
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/[YOUR_USERNAME]">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+<a href="https://github.com/tayyabaa027">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<!-- Add your LinkedIn link -->
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<!-- Add your Email -->
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>"[YOUR_QUOTE]"</i>
+
+## 💭 Quote
+
+> **"Code. Learn. Build. Repeat. Every project is one step closer to excellence." 🚀**
+
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=tayyabaa027&color=D85A30&style=flat-square&label=Profile+Views"/>
+
 </p>
