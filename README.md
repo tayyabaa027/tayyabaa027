@@ -7,7 +7,7 @@
 </a>
 
 <br>
-
+<br>
 <a href="https://linkedin.com/in/tayyaba-shafqat-685272348"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/tayyabaa027"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://github.com/tayyabaa027"><img src="https://komarev.com/ghpvc/?username=tayyabaa027&style=for-the-badge&color=D85A30&label=PROFILE+VIEWS" alt="Profile Views"/></a>
@@ -15,7 +15,6 @@
 </div>
 
 <br>
-
 ## About Me
 
 I'm **Tayyaba Shafqat**, a Software Engineering student and Full Stack Developer focused on building modern, scalable, and AI-powered applications — turning ideas into clean, working products.
@@ -143,8 +142,8 @@ A collection of beginner-friendly JavaScript projects built with HTML, CSS, and 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tayyabaa027&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D85A30&icon_color=D85A30&text_color=C9D1D9&ring_color=D85A30" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabaa027&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D85A30&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=tayyabaa027&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D85A30&icon_color=D85A30&text_color=C9D1D9&ring_color=D85A30" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tayyabaa027&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D85A30&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
