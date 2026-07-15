@@ -59,7 +59,7 @@ I'm **Tayyaba Shafqat**, a Software Engineering student and Full Stack Developer
 <br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_AI-FF6600?style=for-the-badge&logo=probot&logoColor=white)
-
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
@@ -90,10 +90,10 @@ Feature-rich Python CLI chatbot powered by **xAI Grok** with conversation memory
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [TaskFlow AI — Full Stack Platform](https://github.com/tayyabaa027/TASKFLOW-AI-FULL-STACK-PROJECT)
-Production-ready productivity management platform with a modern SaaS-style UI and real-time task management.
+### 🧮 [DSA Projects](https://github.com/tayyabaa027/DSA-Projects)
+Data Structures & Algorithms projects implemented in C++, covering core problem-solving patterns and efficient implementations.
 
-`TypeScript` `React` `Node.js`
+`C++` `DSA`
 
 </td>
 <td width="50%" valign="top">
@@ -108,10 +108,10 @@ Practical LLM examples covering prompt engineering, tokens, embeddings, RAG, and
 <tr>
 <td width="50%" valign="top">
 
-### 📋 [Project Management — MERN Stack](https://github.com/tayyabaa027/project-management-MERN-STACK)
-Full-featured project management app built with **MongoDB, Express, React, and Node.js** for tracking development workflows.
+### 🌍 [Computer Networking](https://github.com/tayyabaa027/COMPUTER-NETWORKING)
+Cisco Packet Tracer labs and networking projects covering routing, switching, and subnetting fundamentals.
 
-`JavaScript` `MongoDB` `React` `Express`
+`Cisco` `Networking`
 
 </td>
 <td width="50%" valign="top">
@@ -131,9 +131,9 @@ A collection of beginner-friendly JavaScript projects built with HTML, CSS, and 
 
 | Repository | Description | Tech |
 |:--|:--|:--|
-| [Computer Networking](https://github.com/tayyabaa027/COMPUTER-NETWORKING) | Cisco Packet Tracer labs covering routing, switching, and subnetting | Cisco |
+| [TaskFlow AI — Full Stack Platform](https://github.com/tayyabaa027/TASKFLOW-AI-FULL-STACK-PROJECT) | Production-ready productivity management platform with a SaaS-style UI and real-time task management | React, Node.js |
+| [Project Management — MERN Stack](https://github.com/tayyabaa027/project-management-MERN-STACK) | Full-featured project management app for tracking development workflows | MongoDB, Express, React |
 | [Assembly Language](https://github.com/tayyabaa027/ASSEMBLY-LANGUAGE) | 8086 assembly lab programs on EMU8086 with line-by-line explanations | Assembly |
-| [DSA Projects](https://github.com/tayyabaa027/DSA-Projects) | Data Structures & Algorithms projects implemented in C++ | C++ |
 | [DSA Labs](https://github.com/tayyabaa027/DSA-LABS) | University DSA lab solutions and implementations | C++ |
 
 </details>
@@ -148,7 +148,7 @@ A collection of beginner-friendly JavaScript projects built with HTML, CSS, and 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabaa027&theme=radical&hide_border=true&background=0D1117&stroke=D85A30&ring=D85A30&fire=FF6B35&currStreakLabel=D85A30&sideLabels=D85A30&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=tayyabaa027&theme=radical&hide_border=true&background=0D1117&stroke=D85A30&ring=D85A30&fire=FF6B35&currStreakLabel=D85A30&sideLabels=D85A30&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
